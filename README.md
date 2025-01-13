@@ -1,9 +1,9 @@
 
-Project Overview
+**Project Overview**
 
 I made a Ola Analysis Project which focuses on analyzing data from Ola, a leading ride-hailing platform. The analysis aims to uncover insights into various aspects of the business, including overall performance, vehicle type preferences, revenue generation, cancellation trends, and customer ratings. By leveraging tools like Excel, SQL, and Power BI, I have created an end-to-end solution to process, analyze, and visualize the data effectively.
 
-Objectives
+**Objectives**
 
 Overall Analysis: Understanding the broader performance metrics and trends of the Ola platform.
 
@@ -15,7 +15,7 @@ Cancellation Analysis: Analyzing ride cancellation rates and identifying potenti
 
 Ratings Analysis: Assessing customer feedback through ratings to improve service quality.
 
-Tools and Technologies Used
+**Tools and Technologies Used**
 
 Excel: For initial data inspection, cleaning, and basic analysis.
 
@@ -23,7 +23,7 @@ SQL: To perform complex queries for filtering, aggregating, and transforming the
 
 Power BI: For creating interactive and dynamic dashboards to visualize key findings.
 
-Project Workflow
+**Project Workflow**
 
 Data Cleaning and Preparation:
 
@@ -53,7 +53,7 @@ Designed interactive dashboards to present key metrics and insights visually.
 
 Implemented slicers, filters, and drill-downs to allow dynamic exploration of the data.
 
-Key Insights
+**Key Insights**
 
 Overall Performance: Identified significant growth trends and high-demand periods.
 
@@ -65,7 +65,7 @@ Cancellation Trends: Found major reasons for cancellations and high-cancellation
 
 Ratings Analysis: Uncovered areas for improvement based on customer feedback.
 
-Project Outcomes
+**Project Outcomes**
 
 Delivered actionable insights to optimize vehicle allocation, revenue strategies, and customer experience.
 
